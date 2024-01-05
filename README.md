@@ -1,4 +1,4 @@
-<img src="https://github.com/temideewan/temideewan/assets/47003850/cb1734d8-0e3a-4d65-af1b-e0912c101034" alt="temidayo's picture" width=700/>
+<img src="https://github.com/temideewan/temideewan/assets/47003850/cb1734d8-0e3a-4d65-af1b-e0912c101034" alt="temidayo's picture" width=900/>
 
 - 👋 Hi, I’m Temidayo Omoyajowo
 - 👀 I’m interested in frontend development on the web and backend
