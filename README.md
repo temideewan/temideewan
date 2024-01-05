@@ -1,4 +1,6 @@
-<img src="https://github.com/temideewan/temideewan/assets/47003850/905a3e06-519f-4fa7-9bd3-5f49e53151f2" width=700 height=800 style="object-fit: cover;" />
+![IMG_9030](https://github.com/temideewan/temideewan/assets/47003850/76b9804f-4e3e-4ecb-bf74-71effd31f2a3)
+
+
 - 👋 Hi, I’m Temidayo Omoyajowo
 - 👀 I’m interested in frontend development on the web and backend
 - 🌱 I’m currently learning how to be a better fullstack
