@@ -1,4 +1,5 @@
-![IMG_9030](https://github.com/temideewan/temideewan/assets/47003850/76b9804f-4e3e-4ecb-bf74-71effd31f2a3)
+![IMG_8990](https://github.com/temideewan/temideewan/assets/47003850/cb1734d8-0e3a-4d65-af1b-e0912c101034)
+
 
 
 - 👋 Hi, I’m Temidayo Omoyajowo
